@@ -1,0 +1,1 @@
+# Kurs i versjonskontroll
